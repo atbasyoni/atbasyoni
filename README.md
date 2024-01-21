@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **atbasyoni/atbasyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -76,13 +74,5 @@ Here are some ideas to get you started:
         </td>
       </tr>
     </tbody>
-  <table>
-<div>
-
----
-
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=atbasyoni&label=Profile+Views)
-
+  </table>
 </div>
