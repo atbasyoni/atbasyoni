@@ -13,20 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/atbasyoni98">
-    <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:atbasyoni@gmail.com">
-    <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/atbasyoni">
-    <img src="https://img.shields.io/badge/visit%20my%20Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
-  </a>
-</div>
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
