@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 </div>
 
-### GitHub Stats 📈
-<div align="center">
+
+<!--div align="center">
   <table width="100%">
     <tbody>
       <tr>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/atbasyoni">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/atbasyoni?cardType=github&theme=github" alt="Ahmed's GitHub Stats" /> -->
+            <img src="https://awesome-github-stats.azurewebsites.net/user-stats/atbasyoni?cardType=github&theme=github" alt="Ahmed's GitHub Stats" />
             <img src="https://github-readme-stats.vercel.app/api?username=atbasyoni&show_icons=true&hide=stars&hide_border=true" alt="Ahmed's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
       </tr>
     </tbody>
   </table>
-</div>
+</div-->
